@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-##Overview of the Analysis
+## Overview of the Analysis
 We used credit card dataset from LendingClub to use supervised machine learning to review credit card risk. We used RandomOverSampler and SMOrE algorithms, and under-sampled the data using the.  ClusterCentroids algorithm. SMoTEENN alogrithm was used for combinatorial approach of over-and under-sampling. Then we used reduce bais, BalancedRandomForestClassifier and EasyEnsembleClassifier, in the analysis
 
 ## Results
